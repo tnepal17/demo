@@ -2,7 +2,6 @@
 
 Deployed a sample application in Amazon EKS cluster implementing enterprise DevOps practices and cloud-native architecture for scalable microservices platform.
 
-**Key Achievements:**
 Cloud Infrastructure:
 - Provisioned multi-AZ EKS cluster with AWS Application Load Balancer integration 
 - Configured VPC networking, security groups, and ECR container registry integration 
