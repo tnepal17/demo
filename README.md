@@ -1,5 +1,7 @@
 **Gadget-store**
 
+View Here => demo.sanbox-us.com
+
 Deployed a sample application in Amazon EKS cluster implementing enterprise DevOps practices and cloud-native architecture for scalable microservices platform.
 
 Cloud Infrastructure:
